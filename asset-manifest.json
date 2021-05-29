@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/looper/static/css/main.787ead5d.chunk.css",
+    "main.js": "/looper/static/js/main.fc640de0.chunk.js",
+    "main.js.map": "/looper/static/js/main.fc640de0.chunk.js.map",
+    "runtime-main.js": "/looper/static/js/runtime-main.d7b85fb6.js",
+    "runtime-main.js.map": "/looper/static/js/runtime-main.d7b85fb6.js.map",
+    "static/js/2.ed65af8a.chunk.js": "/looper/static/js/2.ed65af8a.chunk.js",
+    "static/js/2.ed65af8a.chunk.js.map": "/looper/static/js/2.ed65af8a.chunk.js.map",
+    "index.html": "/looper/index.html",
+    "static/css/main.787ead5d.chunk.css.map": "/looper/static/css/main.787ead5d.chunk.css.map",
+    "static/js/2.ed65af8a.chunk.js.LICENSE.txt": "/looper/static/js/2.ed65af8a.chunk.js.LICENSE.txt",
+    "static/media/120_future_funk_beats_25.5eb417fc.mp3": "/looper/static/media/120_future_funk_beats_25.5eb417fc.mp3",
+    "static/media/120_stutter_breakbeats_16.37c82282.mp3": "/looper/static/media/120_stutter_breakbeats_16.37c82282.mp3",
+    "static/media/BassWarwickheavyfunkgrooveonE120BPM.52c24c81.mp3": "/looper/static/media/BassWarwickheavyfunkgrooveonE120BPM.52c24c81.mp3",
+    "static/media/FUD_120_StompySlosh.27bdc145.mp3": "/looper/static/media/FUD_120_StompySlosh.27bdc145.mp3",
+    "static/media/GrooveB_120bpm_Tanggu.3e1411b4.mp3": "/looper/static/media/GrooveB_120bpm_Tanggu.3e1411b4.mp3",
+    "static/media/MazePolitics_120_Perc.2d08c654.mp3": "/looper/static/media/MazePolitics_120_Perc.2d08c654.mp3",
+    "static/media/PAS3GROOVE1.03B.f77c6da4.mp3": "/looper/static/media/PAS3GROOVE1.03B.f77c6da4.mp3",
+    "static/media/SilentStar_120_Em_OrganSynth.f2d668af.mp3": "/looper/static/media/SilentStar_120_Em_OrganSynth.f2d668af.mp3",
+    "static/media/electricguitarcoutryslide120bpm-B.230fcab8.mp3": "/looper/static/media/electricguitarcoutryslide120bpm-B.230fcab8.mp3",
+    "static/media/logo.6ce24c58.svg": "/looper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7b85fb6.js",
+    "static/js/2.ed65af8a.chunk.js",
+    "static/css/main.787ead5d.chunk.css",
+    "static/js/main.fc640de0.chunk.js"
+  ]
+}
